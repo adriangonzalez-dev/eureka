@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Special+Elite&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root{
+    --primaryFont: 'Special Elite', cursive;
+    --secondaryFont: 'Oswald', sans-serif;
+    --azul: #2c5da9;
+    --amarillo: #ebd42e;
+    --celeste: #73c5da;
+    --negro: #000000;
+    --blanco:  #fff;
+    
+   
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color:inherit
+}
+

@@ -17,6 +17,7 @@
 	"type": "module",
 	"dependencies": {
 		"svelte-routing": "^1.6.0",
+		"sweetalert2": "^11.4.33",
 		"swiper": "^8.4.2"
 	}
 }

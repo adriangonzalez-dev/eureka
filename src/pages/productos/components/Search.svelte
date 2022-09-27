@@ -1,5 +1,6 @@
 <script>
-    export let search,handleSubmit;
+    export let search;
+    export let handleSubmit;
 
 </script>
 
@@ -42,7 +43,7 @@
         
     }
 
-    input:focus + label{
+    input:focus:valid + label{
         transform: translateY(-1rem);
         transition: all .5s;
         background-color: var(--blanco);
